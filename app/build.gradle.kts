@@ -27,6 +27,6 @@ java {
 
 application {
     mainClass = "dev.mixero.kotlin.shop.AppKt"
-    version = "0.0.1"
+    version = "0.1.0"
     applicationDefaultJvmArgs = listOf("-Dkotlin-logging.logStartupMessage=false")
 }
