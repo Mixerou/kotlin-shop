@@ -31,6 +31,13 @@ Options:
   -h, --help           Show this message and exit
 ```
 
+To generate an input file, you can you the transactions generator:
+
+```shell
+Usage: scripts/transarator228.main.kts <outputFile> [transactions] [seed]
+Defaults: transactions=1000, seed=339
+```
+
 ## How it works
 
 The input file is a chronological log of inventory transactions.
